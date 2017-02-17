@@ -1,4 +1,5 @@
-﻿var eventproxy=require('eventproxy');
+﻿// xuxuxuxu
+var eventproxy=require('eventproxy');
 var superagent=require('superagent');
 var cheerio=require('cheerio');
 var url=require('url');
